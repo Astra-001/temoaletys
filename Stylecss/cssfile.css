@@ -1,5 +1,49 @@
 * {box-sizing:border-box}
 /* Nav-bar */
+.fab:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+
+.fa-google {
+background: #dd4b39;
+color: white;
+}
+
+.fa-linkedin {
+background: #007bb5;
+color: white;
+}
+
+.fa-youtube {
+background: #bb0000;
+color: white;
+}
+
+.fa-instagram {
+background: #125688;
+color: white;
+}
+
+.fab{
+  padding: 9px;
+  font-size: 1rem;
+  border-radius: 11px;
+  /* width: ; */
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
 body{
   padding: 0;
   margin:0 ;

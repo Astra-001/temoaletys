@@ -7220,7 +7220,10 @@ textarea.form-control-lg {
 }
 
 .bg-dark {
-  background-color: #212529 !important;
+  background-color: #15171a !important;
+}
+.bg-grey {
+  background-color: #444649 !important;
 }
 
 .bg-body {
